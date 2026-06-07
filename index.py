@@ -26,7 +26,7 @@ ANTHROPIC_API_KEY = "YOUR_ANTHROPIC_API_KEY"   # https://console.anthropic.com
 TWILIO_ACCOUNT_SID = "YOUR_TWILIO_ACCOUNT_SID"
 TWILIO_AUTH_TOKEN  = "YOUR_TWILIO_AUTH_TOKEN"
 TWILIO_FROM        = "whatsapp:+14155238886"    # Twilio sandbox number
-YOUR_WHATSAPP      = "whatsapp:+62XXXXXXXXXX"  # Your number with country code
+YOUR_WHATSAPP      = "whatsapp:+628999332233"  # Your number with country code
 
 SEND_TIME          = "08:00"                   # 24-hour format, local machine time
 TIMEZONE           = "Asia/Jakarta"            # WIB — make sure your server uses this TZ
